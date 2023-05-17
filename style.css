@@ -1,0 +1,13 @@
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 200px;
+    height: 150px;
+}
+table td {
+    border: 1px solid black;
+}
+.maDivision{
+    margin-top: 50px;
+    border: 2px solid red;
+}
